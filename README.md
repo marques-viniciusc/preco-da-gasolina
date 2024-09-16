@@ -27,7 +27,7 @@ Este é um projeto experimental e de estudo, criado com o intuito de **aprender 
     ```
 2. Execute o script para gerar os gráficos
     ```bash
-    python hello.py
+    python gasolina.py
     ```
 
 ---
